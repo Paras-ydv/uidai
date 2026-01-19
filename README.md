@@ -5,11 +5,11 @@ Comprehensive analytics dashboard for UIDAI enrollment data with automatic Jupyt
 
 ##  Key Features
 
-- ** Auto-Detection**: Automatically finds and loads all notebooks from base directory
-- ** Smart Rendering**: Only displays sections containing visualizations
-- ** Plot Selection**: Dropdown to select specific plots with descriptions
-- ** Team Integration**: All team members properly credited
-- ** Interactive**: Dynamic plot and section selection
+- **Auto-Detection**: Automatically finds and loads all notebooks from base directory
+- **Smart Rendering**: Only displays sections containing visualizations
+- **Plot Selection**: Dropdown to select specific plots with descriptions
+- **Team Integration**: All team members properly credited
+- **Interactive**: Dynamic plot and section selection
 
 ##  Quick Start
 
