@@ -29,7 +29,7 @@ STATE_NAME_MAP = {
     "bihar": "bihar",
     "chandigarh": "chandigarh",
     "chhattisgarh": "chhattisgarh",
-    "dadra and nagar haveli and daman and diu": "dadra and nagar haveli and daman and diu",
+    "dadra and nagar haveli and daman and diu": "daman and diu",
     "delhi": "delhi",
     "goa": "goa",
     "gujarat": "gujarat",
@@ -62,78 +62,69 @@ STATE_NAME_MAP = {
     # ----- Common Variations & Typos -----
     
     # Andaman & Nicobar Islands
-    "andaman & nicobar islands": "andaman and nicobar islands",
-    "andaman & nicobar": "andaman and nicobar islands",
-    "andaman and nicobar": "andaman and nicobar islands",
-    "a & n islands": "andaman and nicobar islands",
-    "a&n islands": "andaman and nicobar islands",
+    "Andaman & Nicobar islands": "andaman and nicobar islands",
+    "Andaman and Nicobar": "andaman and nicobar islands",
     
     # Delhi variations
-    "nct of delhi": "delhi",
-    "new delhi": "delhi",
-    "national capital territory of delhi": "delhi",
+    "Delhi": "delhi",
+   
     
     # Chhattisgarh variations
     "chattisgarh": "chhattisgarh",
     "chhatisgarh": "chhattisgarh",
     
     # Dadra & Nagar Haveli and Daman & Diu (merged UTs)
-    "dadra and nagar haveli": "dadra and nagar haveli and daman and diu",
-    "dadra & nagar haveli": "dadra and nagar haveli and daman and diu",
-    "dnh": "dadra and nagar haveli and daman and diu",
-    "daman and diu": "dadra and nagar haveli and daman and diu",
-    "daman & diu": "dadra and nagar haveli and daman and diu",
-    "diu": "dadra and nagar haveli and daman and diu",
-    "daman": "dadra and nagar haveli and daman and diu",
+    "dadra and nagar haveli": "daman and diu",
+    "dadra & nagar haveli": "daman and diu",
+    "daman and diu": "daman and diu",
+    "daman & diu": "daman and diu",
     
     # Jammu & Kashmir
     "jammu & kashmir": "jammu and kashmir",
-    "j&k": "jammu and kashmir",
-    "j & k": "jammu and kashmir",
+ 
     
     # Odisha (formerly Orissa)
+    "ODISHA": "odisha",
     "orissa": "odisha",
     
     # Puducherry (formerly Pondicherry)
-    "pondicherry": "puducherry",
-    "pondy": "puducherry",
+    "pudicherry": "pondicherry",
+    "Pondicherry": "pondicherry",
     
     # Tamil Nadu
-    "tamilnadu": "tamil nadu",
-    "tn": "tamil nadu",
+    "tamil nadu": "tamil nadu",
+
     
     # Uttar Pradesh
-    "uttarpradesh": "uttar pradesh",
-    "up": "uttar pradesh",
-    "u.p.": "uttar pradesh",
+    "Uttar Pradesh": "uttar pradesh",
+
     
     # Uttarakhand (formerly Uttaranchal)
     "uttaranchal": "uttarakhand",
     
     # West Bengal
-    "westbengal": "west bengal",
-    "w.b.": "west bengal",
-    "wb": "west bengal",
+    "West Bengal": "west bengal",
+    "West Bangal": "west bengal",
+    "West bengal": "west bengal",
+    "West  Bengal": "west bengal",
+    "WESTBENGAL": "west bengal",
     
     # Madhya Pradesh
-    "madhyapradesh": "madhya pradesh",
-    "mp": "madhya pradesh",
-    "m.p.": "madhya pradesh",
+    "Madhya Pradesh": "madhya pradesh",
+    
+    
     
     # Himachal Pradesh
-    "himachalpradesh": "himachal pradesh",
-    "hp": "himachal pradesh",
-    "h.p.": "himachal pradesh",
+    "Himachal Pradesh": "himachal pradesh",
+  
     
     # Arunachal Pradesh
-    "arunachalpradesh": "arunachal pradesh",
+    "Arunachal Pradesh": "arunachal pradesh",
     
     # Andhra Pradesh
-    "andhrapradesh": "andhra pradesh",
-    "ap": "andhra pradesh",
+    "Andhra Pradesh": "andhra pradesh",
     
     # Lakshadweep
-    "laccadive": "lakshadweep",
     "lakshadweep islands": "lakshadweep",
 }
 
