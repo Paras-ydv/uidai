@@ -1,7 +1,12 @@
 # UIDAI Analytics Dashboard
 
 ##  Overview
-Comprehensive analytics dashboard for UIDAI enrollment data with automatic Jupyter notebook integration.
+> Comprehensive analytics dashboard for UIDAI enrollment data
+
+☞ See it live: [uidai-data-analytics.streamlit.app](https://uidai-data-analytics.streamlit.app)
+
+☞ Read the project report: [Link](https://github.com/Paras-ydv/uidai/blob/e5f3e19c825210930e58464dd5b9dae05d1fd03b/Project%20Report.pdf)
+
 
 ##  Key Features
 
@@ -125,6 +130,3 @@ For issues or questions, contact the team members listed above.
 
 MIT License
 
----
-
-**Built with  by the UIDAI Analytics Team**
